@@ -58,7 +58,7 @@ Real-Time Chat Application - README
 1. Clone the repository:
    ```bash
    git clone https://github.com/BadavathArjun/real-time-chat-application.git
-   cd professional-chat-app
+   cd real-time-chat-application
    ```
 
 2. Install dependencies:
